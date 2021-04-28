@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:JavaEngineer-fmy/springcloud-2.0-config.git
+          uri: https://github.com/JavaEngineer-fmy/springcloud-2.0-config.git
           search-paths:
             - springcloud-2.0-config
       label: master
